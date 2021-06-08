@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tien ao &#8211; levanvan</title>
+	<atom:link href="http://localhost/levanvan/tag/tien-ao/feed/" rel="self" type="application/rss+xml" />
+	<link>https://levanvan-002.github.io/Van-003</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 27 May 2021 06:50:33 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Tôi bỏ 3 tỷ để đào Bitcoin xanh nhưng thu về được 56 triệu đồng&#8217;</title>
+		<link>https://levanvan-002.github.io/Van-003/khong-phan-loai/toi-bo-3-ty-de-dao-bitcoin-xanh-nhung-thu-ve-duoc-56-trieu-dong/</link>
+					<comments>https://levanvan-002.github.io/Van-003/khong-phan-loai/toi-bo-3-ty-de-dao-bitcoin-xanh-nhung-thu-ve-duoc-56-trieu-dong/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Văn Văn]]></dc:creator>
+		<pubDate>Thu, 27 May 2021 06:49:37 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[tien ao]]></category>
+		<guid isPermaLink="false">https://levanvan-002.github.io/Van-003/?p=67</guid>
+
+					<description><![CDATA[okokokookokokokokokokokk]]></description>
+										<content:encoded><![CDATA[<p>okokokookokokokokokokokk</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://levanvan-002.github.io/Van-003/khong-phan-loai/toi-bo-3-ty-de-dao-bitcoin-xanh-nhung-thu-ve-duoc-56-trieu-dong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
