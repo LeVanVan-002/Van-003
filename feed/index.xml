@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -29,7 +32,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://levanvan-002.github.io/Van-003/?p=70</guid>
 
-					<description><![CDATA[(ĐTCK) Ngày 25/5, thị trường tiền điện tử hồi phục mạnh mẽ với 97/100 mã tăng điểm. Tính đến thời điểm sáng ngày 25/5, thị trường tiền ảo có 97/100...]]></description>
+					<description><![CDATA[(ĐTCK) Ngày 25/5, thị trường tiền điện tử hồi phục mạnh mẽ với 97/100 mã tăng điểm. Tính đến thời điểm sáng ngày 25/5, thị trường tiền ảo có 97/100 mã tăng điểm, còn lại 3 đồng tiền ảo khác giảm giá. Đồng tiền đứng đầu thị trường về giá trị vốn hóa Bitcoin tăng [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>(ĐTCK) Ngày 25/5, thị trường tiền điện tử hồi phục mạnh mẽ với 97/100 mã tăng điểm.<br />
 Tính đến thời điểm sáng ngày 25/5, thị trường tiền ảo có 97/100 mã tăng điểm, còn lại 3 đồng tiền ảo khác giảm giá. Đồng tiền đứng đầu thị trường về giá trị vốn hóa Bitcoin tăng 10,21%; được niêm yết với giá 39.064 USD/BTC.</p>
 <p>Kết thúc phiên giao giao dịch cuối tuần tồi tệ nhất trong năm của Bitcoin, trong phiên ngày hôm nay giá Bitcoin bất ngờ quay đầu, bật tăng mạnh trở lại nhờ đón nhận liên tiếp những thông tin tích cực.</p>

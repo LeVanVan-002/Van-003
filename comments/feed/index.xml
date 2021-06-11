@@ -4,6 +4,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
@@ -11,7 +14,7 @@
 	<atom:link href="http://localhost/levanvan/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://levanvan-002.github.io/Van-003</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 02 Jun 2021 14:33:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Jun 2021 09:12:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

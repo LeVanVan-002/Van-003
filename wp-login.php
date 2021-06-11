@@ -5,11 +5,11 @@
 	<title>Đăng nhập &lsaquo; levanvan &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://levanvan-002.github.io/Van-003/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://levanvan-002.github.io/Van-003/wp-includes/css/buttons.min.css?ver=5.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/forms.min.css?ver=5.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/l10n.min.css?ver=5.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://levanvan-002.github.io/Van-003/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://levanvan-002.github.io/Van-003/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="forms-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="login-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://levanvan-002.github.io/Van-003/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://levanvan-002.github.io/Van-003/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
+				<a href="https://levanvan-002.github.io/Van-003/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://levanvan-002.github.io/Van-003/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -53,56 +53,48 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="https://levanvan-002.github.io/Van-003/">&larr; Quay lại levanvan</a>		</p>
 			</div>
-	<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script type="text/javascript" id="zxcvbn-async-js-extra">
-/* <![CDATA[ */
+	<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script id="zxcvbn-async-js-extra">
 var _zxcvbnSettings = {"src":"https:\/\/levanvan-002.github.io\/Van-003\/wp-includes\/js\/zxcvbn.min.js"};
-/* ]]> */
 </script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
-<script type="text/javascript" id="wp-polyfill-js-after">
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
+<script id="wp-polyfill-js-after">
 ( 'fetch' in window ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
 </script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
-<script type="text/javascript" id="wp-i18n-js-after">
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
-<script type="text/javascript" id="password-strength-meter-js-extra">
-/* <![CDATA[ */
+<script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rất yếu","bad":"Yếu","good":"Trung bình","strong":"Mạnh","mismatch":"Mật khẩu không khớp"};
-/* ]]> */
 </script>
-<script type="text/javascript" id="password-strength-meter-js-translations">
+<script id="password-strength-meter-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
-<script type="text/javascript" id="wp-util-js-extra">
-/* <![CDATA[ */
+<script src="https://levanvan-002.github.io/Van-003/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/levanvan\/wp-admin\/admin-ajax.php"}};
-/* ]]> */
 </script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
-<script type="text/javascript" id="user-profile-js-extra">
-/* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"933e56df77"};
-/* ]]> */
+<script src="https://levanvan-002.github.io/Van-003/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
+<script id="user-profile-js-extra">
+var userProfileL10n = {"user_id":"0","nonce":"f4c6d7361b"};
 </script>
-<script type="text/javascript" id="user-profile-js-translations">
+<script id="user-profile-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
+<script src="https://levanvan-002.github.io/Van-003/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
