@@ -92,7 +92,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/levanvan\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"ee6ff1361e"};
+var userProfileL10n = {"user_id":"0","nonce":"119f033f38"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
