@@ -11,8 +11,8 @@
 	>
 
 <channel>
-	<title>Lê Văn Văn &#8211; levanvan</title>
-	<atom:link href="http://localhost/levanvan/author/laptop-acer/feed/" rel="self" type="application/rss+xml" />
+	<title>Tin Tức Sản Phẩm &#8211; levanvan</title>
+	<atom:link href="http://localhost/levanvan/category/tin-tuc-san-pham/feed/" rel="self" type="application/rss+xml" />
 	<link>https://levanvan-002.github.io/Van-003</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 22 Jun 2021 03:34:08 +0000</lastBuildDate>
