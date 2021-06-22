@@ -10,9 +10,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho levanvan	</title>
-	<atom:link href="http://localhost/levanvan/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://levanvan-002.github.io/Van-003</link>
+	Các phản hồi luận về: dép tổ ong D4	</title>
+	<atom:link href="http://localhost/levanvan/s%E1%BA%A3n%20ph%E1%BA%A9m/dep-to-ong-d4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 17 Jun 2021 07:08:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho dép tổ ong D4 bởi Lê Văn Văn		</title>
+		Bởi: Lê Văn Văn		</title>
 		<link>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/#comment-5</link>
 
 		<dc:creator><![CDATA[Lê Văn Văn]]></dc:creator>

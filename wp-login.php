@@ -5,6 +5,8 @@
 	<title>Đăng nhập &lsaquo; levanvan &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
+<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="https://levanvan-002.github.io/Van-003/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://levanvan-002.github.io/Van-003/wp-includes/css/buttons.min.css?ver=5.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="forms-css" href="https://levanvan-002.github.io/Van-003/wp-admin/css/forms.min.css?ver=5.7.2" type="text/css" media="all">
@@ -44,7 +46,7 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://levanvan-002.github.io/Van-003/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://levanvan-002.github.io/Van-003/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+				<a href="https://levanvan-002.github.io/Van-003/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://levanvan-002.github.io/Van-003/homepage/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -53,8 +55,12 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="https://levanvan-002.github.io/Van-003/">&larr; Quay lại levanvan</a>		</p>
 			</div>
-	<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+	<script type="text/javascript" id="ce4wp_form_submit-js-extra">
+/* <![CDATA[ */
+var ce4wp_form_submit_data = {"siteUrl":"https:\/\/levanvan-002.github.io\/Van-003","url":"https:\/\/levanvan-002.github.io\/Van-003\/wp-admin\/admin-ajax.php","nonce":"ac0aee372b","listNonce":"67cace1e07"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1623910767" id="ce4wp_form_submit-js"></script>
 <script type="text/javascript" id="zxcvbn-async-js-extra">
 /* <![CDATA[ */
 var _zxcvbnSettings = {"src":"https:\/\/levanvan-002.github.io\/Van-003\/wp-includes\/js\/zxcvbn.min.js"};
@@ -92,7 +98,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/levanvan\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://levanvan-002.github.io/Van-003/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"119f033f38"};
+var userProfileL10n = {"user_id":"0","nonce":"325b2457a4"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
