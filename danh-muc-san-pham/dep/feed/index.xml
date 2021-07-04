@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/levanvan/danh-muc-san-pham/dep/feed/" rel="self" type="application/rss+xml" />
 	<link>https://levanvan-002.github.io/Van-003</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 24 Jun 2021 07:51:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 18:57:16 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,27 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>dép nam quai ngang DP6</title>
+		<link>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-nam-quai-ngang-dp6/</link>
+					<comments>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-nam-quai-ngang-dp6/#respond</comments>
+		
+		<dc:creator><![CDATA[Lê Văn Văn]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 15:58:20 +0000</pubDate>
+				<guid isPermaLink="false">https://levanvan-002.github.io/Van-003/?post_type=product&#038;p=232</guid>
+
+					<description><![CDATA[sản phẩm dép nam cao cấp , đẹp , bền , giá rẻ hợp lý
+
+Với phong cách trẻ chung , nam tính]]></description>
+										<content:encoded><![CDATA[sản phẩm dép nam cao cấp , đẹp , bền , giá rẻ hợp lý
+
+Với phong cách trẻ chung , nam tính]]></content:encoded>
+					
+					<wfw:commentRss>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-nam-quai-ngang-dp6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Dép đẹp con gái</title>
 		<link>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-dep-con-gai/</link>
 					<comments>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-dep-con-gai/#respond</comments>
@@ -88,6 +109,25 @@
 					
 					<wfw:commentRss>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-nam-quai-ngang-dp65/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>dép tổ ong D4</title>
+		<link>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/</link>
+					<comments>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/#comments</comments>
+		
+		<dc:creator><![CDATA[Lê Văn Văn]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 03:45:02 +0000</pubDate>
+				<guid isPermaLink="false">https://levanvan-002.github.io/Van-003/?post_type=product&#038;p=112</guid>
+
+					<description><![CDATA[dép tổ ong xịn]]></description>
+										<content:encoded><![CDATA[<p>dép tổ ong</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
