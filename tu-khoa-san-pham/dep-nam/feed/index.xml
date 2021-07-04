@@ -11,8 +11,8 @@
 	>
 
 <channel>
-	<title>dép tổ ong &#8211; levanvan</title>
-	<atom:link href="http://localhost/levanvan/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<title>dép nam &#8211; levanvan</title>
+	<atom:link href="http://localhost/levanvan/tu-khoa-san-pham/dep-nam/feed/" rel="self" type="application/rss+xml" />
 	<link>https://levanvan-002.github.io/Van-003</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Sun, 04 Jul 2021 16:00:15 +0000</lastBuildDate>
@@ -40,25 +40,6 @@ Với phong cách trẻ chung , nam tính]]></content:encoded>
 					
 					<wfw:commentRss>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-nam-quai-ngang-dp6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>dép tổ ong D4</title>
-		<link>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/</link>
-					<comments>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/#comments</comments>
-		
-		<dc:creator><![CDATA[Lê Văn Văn]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 03:45:02 +0000</pubDate>
-				<guid isPermaLink="false">https://levanvan-002.github.io/Van-003/?post_type=product&#038;p=112</guid>
-
-					<description><![CDATA[dép tổ ong xịn]]></description>
-										<content:encoded><![CDATA[<p>dép tổ ong</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://levanvan-002.github.io/Van-003/sản%20phẩm/dep-to-ong-d4/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
